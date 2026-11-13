@@ -1,0 +1,5 @@
+<interface type='direct'>
+      <source dev='enp3s0' mode='bridge'/>
+      <model type='e1000e'/>
+      <address type='pci' domain='0x0000' bus='0x04' slot='0x00' function='0x0'/>
+    </interface>
